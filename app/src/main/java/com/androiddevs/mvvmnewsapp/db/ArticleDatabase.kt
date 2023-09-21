@@ -5,7 +5,7 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import com.androiddevs.mvvmnewsapp.model.Article
+import com.androiddevs.mvvmnewsapp.models.Article
 
 /**
 * Created by Abhinay on 21/09/23.
